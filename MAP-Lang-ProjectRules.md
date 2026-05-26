@@ -17,8 +17,9 @@ summary of the license text is available from [creativecommons.org](https://crea
 New releases have to be sent to MA for approval according to §2 of MA Bylaws.
 
 ## Project rules
-The project rules are according to the rules of the Modelica Association Bylaws. In particular: 
-### Project members 
+
+The project rules are according to the rules of the Modelica Association Bylaws.
+### Project members
 Membership in this project is open to individual persons, companies, institutes, universities and other organizations, which agree to support the purpose of this project and follow the project rules.
 
 An organizational MA member shall appoint an individual person affiliated to the organization to represent the organization in all matters related to this project. This person is the organization's liaison member.
